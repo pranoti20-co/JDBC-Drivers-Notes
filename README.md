@@ -60,7 +60,7 @@ Below are visual representations of JDBC Driver architectures:
 > 📌 
 
 Example:
-![JDBC Diagram](file_0000000002a072078ad77d974c8248b1)
+![JDBC Diagram](file_0000000002a072078ad77d974c8248b1.png)
 ---
 
 ## ⭐ Key Features of This Project
